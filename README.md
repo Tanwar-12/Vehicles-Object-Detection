@@ -36,7 +36,7 @@
 
   ## Training YOLOV5 Model
 * Set images size 640 with batch of 8.
-* Train model around 600 epochs .
+* Train model around 600 epochs .Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 201, best model saved as best.pt.
 * Visualise the training metrics with the help of tensorboard.
 
  ## Testing Images Using Test Data
