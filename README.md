@@ -3,7 +3,8 @@
 
 
 ### Overview : The goal of this project is to detect and localize vehicles in images or videos.  
-![image](https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/c2a194d0-ada5-4011-809b-eaf70c779b84) <br><br>
+![image](https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/c2a194d0-ada5-4011-809b-eaf70c779b84) 
+
 ![image](https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/f930e196-c168-4aec-a72a-6b0e930127f3)
 
 
