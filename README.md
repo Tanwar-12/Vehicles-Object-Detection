@@ -9,7 +9,9 @@
 
 
 
-### 📁 Dataset Used :  https://public.roboflow.ai/object-detection/undefined
+### 📁 Dataset Used :  
+* https://public.roboflow.ai/object-detection/undefined
+* 
 **The dataset consists of 5 classes:**
 - Bus
 - Truck
@@ -38,7 +40,7 @@
   ## Training YOLOV5 Model
 * Set images size 640 with batch of 8.
 * Total 633 images for training and 165 images for validation present in 5 classes.
-* Train model around 600 epochs .Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 201, best model saved as best.pt.
+* Train model around 600 epochs .Stopping training early as no improvement was observed in last 100 epochs. Best results observed at epoch 201, best model saved as best.pt.
 * Visualise the training metrics with the help of tensorboard.
 
  ## Testing Images Using Test Data
@@ -47,14 +49,9 @@
 
 ![download (16)](https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/40630872-89f6-4cc0-abf4-907ad69987aa)
 
-
 ![download (15)](https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/07065413-f809-45e1-8e27-19e0a69f447d)
 
 ## Testing Video Demo
-
-
-
-
 
 
 https://github.com/Tanwar-12/Vehicles-Object-Detection/assets/110081008/d1736cb3-c86d-4b95-94a0-b443a41fe772
